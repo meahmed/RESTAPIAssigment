@@ -1,0 +1,15 @@
+table,
+th,
+td {
+    border: 1px solid black;
+    text-align: center;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+.batteryBtn{
+    margin-bottom:0.5rem;
+    margin-left: 20px;
+}
