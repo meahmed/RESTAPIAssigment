@@ -1,5 +1,3 @@
-#New Change-1more
-
 # RESTAPIAssigment - Battery/Forklift Dashboard WebApp
 
 ## Description:
