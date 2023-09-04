@@ -1,5 +1,5 @@
 # RESTAPIAssigment - Battery/Forklift Dashboard WebApp
-#1234
+#1234 - mon 4 Sep
 ## Description:
 
 This is a simple dashboard web app that requests JSON data through a REST API backend. The backend API has been implemented using Flask in Python. It generates random data for forklifts and batteries, and exposes two API endpoints: ```/api/forklifts``` and ```/api/batteries```.
